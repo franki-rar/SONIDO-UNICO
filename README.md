@@ -1,7 +1,7 @@
 # SONIDO-UNICO
 
 #  → Objetivo general → 
-Proporcionar una plataforma web para presentar Sonido Único (mi proyecto de título) y alojar los distintos contenidos descargables que la experiencia diseñada ofrece. 
+Proporcionar una plataforma web para presentar Sonido Único (mi proyecto de título) que sirva como landing page para presentar y explicar el proyecto a potenciales clientes, como también alojar los distintos contenidos descargables que la experiencia diseñada ofrece. 
 
 # → Usuarios extremos y Usuario promedio → 
 
