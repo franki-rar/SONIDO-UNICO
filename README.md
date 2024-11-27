@@ -1,9 +1,9 @@
-# SONIDO-UNICO
++# SONIDO-UNICO
 
 #  → Objetivo general → 
-Proporcionar una plataforma web para presentar Sonido Único (mi proyecto de título) que sirva como landing page para presentar y explicar el proyecto a potenciales clientes, como también alojar los distintos contenidos descargables que la experiencia diseñada ofrece. 
+Proporcionar una plataforma web para presentar Sonido Único (mi proyecto de título) y alojar los distintos contenidos descargables que la experiencia diseñada ofrece. 
 
-# → Usuarios extremos y Usuario promedio → 
+# → Usuarios → 
 
 ## 1. Usuario Extremo: Alejandro, Director de un Colegio
 Objetivo: Alejandro usa la web para conocer a fondo el proyecto, analizar sus beneficios y decidir si implementarlo en su institución. Quiere asegurarse de que la experiencia sea valiosa para su alumnado y de fácil integración en el currículo.
@@ -38,5 +38,7 @@ Uso de la web: Jorge navega la web con un enfoque práctico, buscando secciones 
 Desafíos: No es muy hábil con la tecnología, por lo que cualquier plataforma que use debe ser intuitiva, sin pasos complicados o procesos largos para acceder al contenido.
 Intereses: Quiere recursos que sean fáciles de implementar en sus clases sin necesidad de conocimientos técnicos avanzados, como partituras interactivas o herramientas para que sus alumnos interactúen directamente en clase.
 
+# Antecedentes 
 
+https://099.supply/?ref=godly : Buena visualización de distintos "productos". Buenas animaciónes de movimiento. 
 
