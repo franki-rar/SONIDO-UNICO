@@ -76,15 +76,15 @@
  * ## fonts 
  * ------------------------------------------------------------------- */
 @font-face {
-  font-family: 'PP Mori'; /* Name your font family */
+  font-family: 'PPMori'; /* Name your font family */
   src: url('fonts/PPMori-Regular.otf'); /* Locate the .ttf file within your directory*/
 }
 
 
 :root {
 
-    --font-1 : "PP Mori", sans-serif;
-    --font-2 : "PP Mori", serif;
+    --font-1 : "PPMori", sans-serif;
+    --font-2 : "PPMori", serif;
 
     /* monospace
     */
@@ -1304,7 +1304,7 @@ a:active {
  */
 h1, h2, h3, h4, h5, h6, 
 .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family            : var(--font-2);
+    font-family            : var(--font-1);
     font-weight            : 400;
     color                  : var(--color-text-dark);
     font-variant-ligatures : common-ligatures;
@@ -2690,6 +2690,7 @@ img.u-pull-left {
 }
 
 .text-huge-title {
+    font-family : var(--font-1);
     --text-huge : 43rem;
     font-size   : var(--text-huge);
     line-height : normal;
